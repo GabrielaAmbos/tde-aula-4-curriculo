@@ -1,0 +1,61 @@
+body {
+    margin: 300px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.userName {
+    background-color: brown;
+    opacity: 60%;
+    text-align: center;
+    color: white;
+    border: 4 solid;
+    border-radius: 12px;
+}
+
+.row {
+    clear: both;
+}
+
+
+#photo {
+    float: left;
+    width: 30%;
+}
+
+#address {
+    float: left;
+    width: 70%;
+    text-align: justify;
+}
+
+#imgPhoto {
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 50% !important;
+}
+
+#adress {
+    
+}
+
+b {
+    color: brown;
+}
+
+.objetivo {
+    float: left;
+}
+
+p{
+    text-align: justify;
+}
+
+h3 {
+    text-align: justify;
+    color: brown;
+}
+
+.formacao {
+    float: left;
+}
